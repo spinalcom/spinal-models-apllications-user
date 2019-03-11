@@ -1,1 +1,1 @@
-# spinal-models-apllications-user
+# spinal-models-applications-user
